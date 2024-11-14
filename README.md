@@ -1,4 +1,4 @@
-<h1 align="center">Roger Dai Rice University 2026's</h1>
+<h1 align="center">Roger Dai</h1>
 
 - 🔭 I’m currently working on [WassDiff-LiT-diffusion](https://github.com/RogerDai2026/WassDiff-LiT-diffusion)
 
