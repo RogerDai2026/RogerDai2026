@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Roger Dai</h1>
-<h3 align="center">A passionate FullStack Software Engineer</h3>
+<h1 align="center">Roger Dai Rice University 2026's</h1>
 
 - 🔭 I’m currently working on [WassDiff-LiT-diffusion](https://github.com/RogerDai2026/WassDiff-LiT-diffusion)
 
