@@ -6,8 +6,6 @@
 
 - 👨‍💻 All of my projects are available at [https://rogerdai2026.github.io/my-website/](https://rogerdai2026.github.io/my-website/)
 
-- 💬 Ask me about **Reddis, SQL, Pytorch, Go, Java**
-
 - 📫 How to reach me **qd8@rice.edu**
 
 <h3 align="left">Connect with me:</h3>
